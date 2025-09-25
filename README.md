@@ -186,8 +186,7 @@ This repository does not include an explicit license file. Add a `LICENSE` file 
 ## Contact
 
 If you want help running or extending the project, open an issue in the repository or contact the maintainer.
+📧 **Email:** salmaom3r@gmail.com
 
 ---
-
-*README generated for `EshopModularMonoliths` — adjust any commands, ports, or configuration values to match your local setup.*
 
