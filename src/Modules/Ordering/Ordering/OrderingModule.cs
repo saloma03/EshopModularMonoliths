@@ -23,10 +23,10 @@ namespace Ordering
         public static IApplicationBuilder UseOrderingModule(this IApplicationBuilder app)
         {
             //add services to the container.
-            app.
-                UseApplicationServicces()
-                UseInfrastructureService()
-                .UseApiServices();
+            //app.
+            //    UseApplicationServicces()
+            //    UseInfrastructureService()
+            //    .UseApiServices();
             return app;
         }
     }
